@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>草莓视频</string>
+			<key>PayloadDescription</key>
+			<string>Adds a Web Clip.</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip (草莓视频)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.caomeishipin.profile.webclip1</string>
+			<key>PayloadOrganization</key>
+			<string>aaa123</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>E616565C-8DAA-42C8-BF2B-2FAEDC8E3687</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>www.QQ.com</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>描述文件描述。</string>
+	<key>PayloadDisplayName</key>
+	<string>草莓视频</string>
+	<key>PayloadIdentifier</key>
+	<string>com.caomeishipin.profile</string>
+	<key>PayloadOrganization</key>
+	<string>aaa123</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>286F1365-B535-4DCD-A784-24AB49915F5F</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
